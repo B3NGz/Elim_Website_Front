@@ -9,3 +9,5 @@ desktop.ini
 # Environment files (for Supabase keys later; never upload these)
 .env
 .env.*
+
+.vs/
